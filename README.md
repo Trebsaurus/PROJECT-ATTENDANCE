@@ -5,19 +5,26 @@ This project is a web-based application that tracks attendance records of studen
 ## How to Run the Project
 
 1. Clone the git repository:
-   ```git clone https://github.com/your-username/project-attendance.git
 
    ```
+   git clone https://github.com/your-username/project-attendance.git
+   ```
+
 2. Install the dependencies in the root directory:
-   ```npm install
 
    ```
+   npm install
+   ```
+
 3. Install the dependencies in the frontend directory:
-   ````cd frontend
-   ```npm install
-   ````
+   ```
+   cd frontend
+   npm install
+   ```
 4. Start the application:
-   ```npm start
 
    ```
+   npm start
+   ```
+
 5. Open your web browser and navigate to `http://localhost:3000` to access the application.
